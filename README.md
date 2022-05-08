@@ -9,4 +9,4 @@
 | 5 |[Semáforo](https://github.com/guilemes1/semaforoME)|[PORTB](https://github.com/JoseWRPereira/ucPICsimulIDE/tree/master/sim_semaforo)| Semáforo com botão de pedestre |
 | 6 |[Semaforo com Máquina de Estados](https://github.com/JoseWRPereira/ucPICsimulIDE/tree/master/c1_semaforo_veiculos_pedestres_me.X)|[PORTB](https://github.com/JoseWRPereira/ucPICsimulIDE/tree/master/sim_semaforo)| Semáforo com botão de pedestre feito com máquina de estados |
 | 7 |[Partida Estrela/Triângulo](https://github.com/guilemes1/partidaETMaqEst)|[PORTD](https://github.com/JoseWRPereira/ucPICsimulIDE/tree/master/sim_partida_estrela_triangulo)| Partida estrela-triângulo de motor trifásico |
-| 8 |[Display de 7 segmentos](https://github.com/JoseWRPereira/ucPICsimulIDE/tree/master/c1_display7segmentos.X)|[PORTB](https://github.com/JoseWRPereira/ucPICsimulIDE/tree/master/sim_disp7seg)| Contagem hexadecial em display de 7 segmentos |
+| 8 |[Display de 7 segmentos](https://github.com/guilemes1/Disp7seg_combotao)|PORTB)| Contagem hexadecial em display de 7 segmentos |
