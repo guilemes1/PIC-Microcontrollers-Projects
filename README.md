@@ -2,7 +2,7 @@
 
 | ID | Projetos (MPLAB-X) | Simulador | Observação |
 |:------:|:-------:|:--------:|:---------:|
-| 1 |[Pisca LED](https://github.com/JoseWRPereira/ucPICsimulIDE/tree/master/c1_piscaLED.X)|LED| Pisca LED com frequência de 1Hz |
+| 1 |[Pisca LED](https://github.com/guilemes1/blink)|LED| Pisca LED com frequência de 1Hz |
 | 2 |[Semáforo](https://github.com/guilemes1/semaforoME)|PORTB| Semáforo com botão de pedestre 
 | 3 |[Partida Estrela/Triângulo](https://github.com/guilemes1/partidaETMaqEst)|PORTD| Partida estrela-triângulo de motor trifásico |
 | 5 |[Motor de passo](https://github.com/guilemes1/stepMotor)|PORTB| Controle de velocidade do motor de passo |
